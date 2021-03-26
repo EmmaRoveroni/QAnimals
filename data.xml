@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animali>
+    <animale>
+        <Tipo>Erbivoro</Tipo>
+        <Specie>Rinoceronte</Specie>
+        <Peso>1500</Peso>
+        <Altezza>1.8</Altezza>
+        <Lunghezza>3</Lunghezza>
+        <Eta>10</Eta>
+        <Sede>Pretoria</Sede>
+        <Frugivoro>Frugivoro</Frugivoro>
+        <Granivoro>Granivoro</Granivoro>
+        <Corno>12.3</Corno>
+        <ID>1</ID>
+    </animale>
+    <animale>
+        <Tipo>Onnivoro</Tipo>
+        <Specie>Orso</Specie>
+        <Peso>1200</Peso>
+        <Altezza>2.53</Altezza>
+        <Lunghezza>2</Lunghezza>
+        <Eta>8</Eta>
+        <Sede>Mumbai</Sede>
+        <Folivoro>Folivoro</Folivoro>
+        <Granivoro>Granivoro</Granivoro>
+        <Nettarivoro>Nettarivoro</Nettarivoro>
+        <Pelliccia>20</Pelliccia>
+        <Grasso>Questo orso è grasso</Grasso>
+        <ID>3</ID>
+    </animale>
+    <animale>
+        <Tipo>Erbivoro</Tipo>
+        <Specie>Rinoceronte</Specie>
+        <Peso>1200</Peso>
+        <Altezza>1.9</Altezza>
+        <Lunghezza>2.5</Lunghezza>
+        <Eta>5</Eta>
+        <Sede>Nairobi</Sede>
+        <Frugivoro>Frugivoro</Frugivoro>
+        <Granivoro>Granivoro</Granivoro>
+        <Corno>10.1</Corno>
+        <ID>5</ID>
+    </animale>
+    <animale>
+        <Tipo>Carnivoro</Tipo>
+        <Specie>Alligatore</Specie>
+        <Peso>200</Peso>
+        <Altezza>0.25</Altezza>
+        <Lunghezza>6.5</Lunghezza>
+        <Eta>6</Eta>
+        <InEstinzione>si</InEstinzione>
+        <Sede>Nairobi</Sede>
+        <Necrofago>E' necrofago</Necrofago>
+        <Pelle>12</Pelle>
+        <Grasso>Questo alligatore è grasso</Grasso>
+        <Divalore>Questo alligatore è di valore</Divalore>
+        <ID>7</ID>
+    </animale>
+    <DatiFinanziari>
+        <acquisto>
+            <IDAC>1</IDAC>
+            <SpecieAC>Rinoceronte</SpecieAC>
+            <PrezzoAC>300.50</PrezzoAC>
+            <DataAC>lun nov 5 2018</DataAC>
+        </acquisto>
+        <acquisto>
+            <IDAC>2</IDAC>
+            <SpecieAC>Alligatore</SpecieAC>
+            <PrezzoAC>1000.80</PrezzoAC>
+            <DataAC>sab gen 12 2019</DataAC>
+        </acquisto>
+        <acquisto>
+            <IDAC>3</IDAC>
+            <SpecieAC>Orso</SpecieAC>
+            <PrezzoAC>800.00</PrezzoAC>
+            <DataAC>dom feb 3 2019</DataAC>
+        </acquisto>
+        <acquisto>
+            <IDAC>4</IDAC>
+            <SpecieAC>Alligatore</SpecieAC>
+            <PrezzoAC>935.90</PrezzoAC>
+            <DataAC>lun ott 1 2018</DataAC>
+        </acquisto>
+        <acquisto>
+            <IDAC>5</IDAC>
+            <SpecieAC>Rinoceronte</SpecieAC>
+            <PrezzoAC>1200.20</PrezzoAC>
+            <DataAC>mer giu 5 2019</DataAC>
+        </acquisto>
+        <acquisto>
+            <IDAC>8</IDAC>
+            <SpecieAC>Rinoceronte</SpecieAC>
+            <PrezzoAC>1230.30</PrezzoAC>
+            <DataAC>dom lug 7 2019</DataAC>
+        </acquisto>
+        <vendite>
+            <IDVE>4</IDVE>
+            <SpecieVE>Alligatore</SpecieVE>
+            <PrezzoVE>4500.00</PrezzoVE>
+            <DataVE>mar mar 10 2020</DataVE>
+        </vendite>
+        <vendite>
+            <IDVE>2</IDVE>
+            <SpecieVE>Alligatore</SpecieVE>
+            <PrezzoVE>3000.80</PrezzoVE>
+            <DataVE>mer apr 1 2020</DataVE>
+        </vendite>
+        <vendite>
+            <IDVE>6</IDVE>
+            <SpecieVE>Orso</SpecieVE>
+            <PrezzoVE>2300.70</PrezzoVE>
+            <DataVE>mar ago 4 2020</DataVE>
+        </vendite>
+        <vendite>
+            <IDVE>8</IDVE>
+            <SpecieVE>Rinoceronte</SpecieVE>
+            <PrezzoVE>1260.45</PrezzoVE>
+            <DataVE>ven lug 31 2020</DataVE>
+        </vendite>
+        <TotaleAcquisti>
+            <TotAcquisti>5467.70</TotAcquisti>
+        </TotaleAcquisti>
+        <TotaleVendite>
+            <TotVendite>11061.95</TotVendite>
+        </TotaleVendite>
+        <Bilancio>
+            <Bilanciodato>5594.25</Bilanciodato>
+        </Bilancio>
+    </DatiFinanziari>
+</animali>
